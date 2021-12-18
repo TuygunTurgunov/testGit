@@ -1,1 +1,2 @@
 dfdf test o'zgartirildi
+add test
